@@ -1,2 +1,0 @@
-# Pymongo-CRUD
-Basic tutorial
